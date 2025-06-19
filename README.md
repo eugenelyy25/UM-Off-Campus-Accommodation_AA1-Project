@@ -37,7 +37,7 @@ The app performs data cleaning, standardization, and categorization (e.g., locat
 | `shinythemes`  | Bootstrap-based UI themes                        |
 | `tidyverse`    | Data cleaning, manipulation, and visualization   |
 | `leaflet`      | Interactive map rendering                        |
-| `ggmap`        | (Optional) Geocoding support                     |
+| `ggmap`        | Geocoding support                                |
 | `DT`           | Interactive HTML tables                          |
 
 ---

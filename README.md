@@ -3,8 +3,6 @@
 An interactive Shiny web application that helps students explore and compare available accommodation options near **University of Malaya**. 
 The app provides a map-based interface, data filtering, and a searchable listings table sourced from multiple providers.
 
-![UM Student Accommodation Finder Screenshot](screenshot.png)
-
 ---
 
 ## ✨ Features
@@ -22,7 +20,7 @@ The app provides a map-based interface, data filtering, and a searchable listing
 
 ## 📁 Data Sources
 
-This app processes and integrates listings from:
+This app processes and integrates listings from UM official accomodation webpage:
 
 - `Wanderlust.csv`
 - `EZHOME.csv`

@@ -1,7 +1,7 @@
 # University Malaya Student Accommodation Finder
 
-An interactive Shiny web application that helps students explore and compare available accommodation options near **University of Malaya**. 
-The app provides a map-based interface, data filtering, and a searchable listings table sourced from multiple providers.
+This Shiny web application helps students explore and compare available accommodation options near **University of Malaya**. Making renter-and-leaser much easier.
+The app consist a map-based interface, data filtering, and a searchable listings table sourced from multiple providers source from (https://hep.um.edu.my/off-campus-accommodation).
 
 ---
 

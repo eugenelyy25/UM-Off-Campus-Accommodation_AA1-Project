@@ -1,7 +1,10 @@
 # University Malaya Student Accommodation Finder Tool
 
-This Shiny web application helps students explore and compare available accommodation options near **University of Malaya**. Making renter-and-leaser much easier.
-The app consist a map-based interface, data filtering, and a searchable listings table sourced from multiple providers (https://hep.um.edu.my/off-campus-accommodation).
+This Shiny web application helps students explore and compare available accommodation options near **University of Malaya**, making renting and leasing much easier.
+The app consists of a map-based interface, data filtering, and a searchable listings table originally sourced from multiple providers ([UM Off-Campus Accommodation — Archived](https://web.archive.org/web/20241206102931/https://hep.um.edu.my/off-campus-accommodation)).
+
+> 📢 **UPDATE (08.2026):**  
+> The original webpage no longer updates `.csv` files for student downloads. This project helped inspire the UM Accommodations management to launch an entirely new UI that dynamically charts off-campus accommodations for a smoother experience. You may visit the updated official portal at [UM Accommodation (Off-Campus)](https://hep.um.edu.my/accommodation#off-campus).
 
 ---
 
@@ -20,7 +23,7 @@ The app consist a map-based interface, data filtering, and a searchable listings
 
 ## 📁 Data Sources
 
-This app processes and integrates listings from UM official accomodation webpage:
+This app processes and integrates listings from the official UM accommodation webpage archive:
 
 - `Wanderlust.csv`
 - `EZHOME.csv`
@@ -31,7 +34,7 @@ The app performs data cleaning, standardization, and categorization (e.g., locat
 
 ## 🛠️ Built With
 
-| Package        | Purpose                                         |
+| Package        | Purpose                                          |
 |----------------|--------------------------------------------------|
 | `shiny`        | Web application framework                        |
 | `shinythemes`  | Bootstrap-based UI themes                        |
@@ -42,3 +45,8 @@ The app performs data cleaning, standardization, and categorization (e.g., locat
 
 ---
 
+## 🌐 Live Application
+
+You can access and interact with the live deployed application here:
+
+🔗 **[University Malaya Student Accommodation Finder](https://eugeneloo.shinyapps.io/um-offcampus-accommodation-finder/)**
